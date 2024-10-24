@@ -1,4 +1,4 @@
-# hello-world-zk-dapp
+# A dapp using Zero Knowledge Proof (ZKP) for group membership verification 
 
 A simple but practical (zero knowledge) hello world project, tested on `ganache-cli`.
 
